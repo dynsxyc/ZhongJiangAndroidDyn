@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ZhongJiangAndroidDyn.iml" filepath="$PROJECT_DIR$/ZhongJiangAndroidDyn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileDownload/filedownload.iml" filepath="$PROJECT_DIR$/FileDownload/filedownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opensourcelibrary/opensourcelibrary.iml" filepath="$PROJECT_DIR$/opensourcelibrary/opensourcelibrary.iml" />
     </modules>
   </component>
 </project>
