@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FileDownload" />
+            <option value="$PROJECT_DIR$/imageselector" />
             <option value="$PROJECT_DIR$/opensourcelibrary" />
           </set>
         </option>
