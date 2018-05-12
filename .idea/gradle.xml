@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/FileDownload" />
             <option value="$PROJECT_DIR$/imageselector" />
             <option value="$PROJECT_DIR$/opensourcelibrary" />
+            <option value="$PROJECT_DIR$/zhongjiangdyn" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

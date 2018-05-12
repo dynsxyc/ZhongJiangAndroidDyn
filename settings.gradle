@@ -1,1 +1,1 @@
-include ':filedownload', ':opensourcelibrary',':imageselector'
+include ':filedownload', ':opensourcelibrary',':imageselector', ':zhongjiangdyn'
