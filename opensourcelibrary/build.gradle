@@ -6,8 +6,6 @@ group='com.github.dynsxyc'
 android {
     compileSdkVersion 'android-P'
 
-
-
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 27
