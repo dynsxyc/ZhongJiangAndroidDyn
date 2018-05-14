@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.donkingliang.imageselector">
+    package="com.zhongjiang.dyn.imageselector">
 
     <application
         android:allowBackup="true"
