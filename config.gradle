@@ -41,6 +41,7 @@ versions.constraint_layout = "1.0.2"
 versions.glide = "4.7.1"
 versions.timber = "4.5.1"
 versions.android_gradle_plugin = "3.0.1"
+versions.android_maven_gradle_plugin = "2.0"
 versions.rxjava2 = "2.1.3"
 versions.rx_android = "2.0.1"
 versions.atsl_runner = "1.0.1"
@@ -131,6 +132,7 @@ deps.rxjava2 = "io.reactivex.rxjava2:rxjava:$versions.rxjava2"
 deps.rx_android = "io.reactivex.rxjava2:rxandroid:$versions.rx_android"
 deps.hamcrest = "org.hamcrest:hamcrest-all:$versions.hamcrest"
 deps.android_gradle_plugin = "com.android.tools.build:gradle:$versions.android_gradle_plugin"
+deps.android_maven_gradle_plugin = "com.github.dcendents:android-maven-gradle-plugin:$versions.android_maven_gradle_plugin"
 deps.photoview = "com.github.chrisbanes:PhotoView:$versions.photoview"
 ext.deps = deps
 
@@ -141,9 +143,10 @@ build_versions.build_tools = "27.0.3"
 ext.build_versions = build_versions
 
 
-//def addRepos(RepositoryHandler handler) {
-//    handler.google()
-//    handler.jcenter()
-//    handler.maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
-//}
-//ext.addRepos = this.&addRepos
+def addRepos(RepositoryHandler handler) {
+    handler.google()
+    handler.jcenter()
+    handler.maven { url 'https://oss.sonatype.org/content/repositories/snapshots' }
+    handler.maven { url 'https://jitpack.io' }
+}
+ext.addRepos = this.&addRepos
