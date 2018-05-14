@@ -33,5 +33,4 @@ dependencies {
     androidTestImplementation deps.espresso.core
     implementation project(':filedownload')
     implementation project(':imageselector')
-    implementation project(':opensourcelibrary')
 }

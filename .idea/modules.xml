@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/ZhongJiangAndroidDyn.iml" filepath="$PROJECT_DIR$/ZhongJiangAndroidDyn.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileDownload/filedownload.iml" filepath="$PROJECT_DIR$/FileDownload/filedownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/imageselector/imageselector.iml" filepath="$PROJECT_DIR$/imageselector/imageselector.iml" />
-      <module fileurl="file://$PROJECT_DIR$/opensourcelibrary/opensourcelibrary.iml" filepath="$PROJECT_DIR$/opensourcelibrary/opensourcelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhongjiangdyn/zhongjiangdyn.iml" filepath="$PROJECT_DIR$/zhongjiangdyn/zhongjiangdyn.iml" />
     </modules>
   </component>
