@@ -1,14 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion build_versions.target_sdk
 
 
 
     defaultConfig {
         applicationId "dong.zhongjiang.com.zhongjiangdyn"
-        minSdkVersion 16
-        targetSdkVersion 27
+        minSdkVersion build_versions.min_sdk
+        targetSdkVersion build_versions.target_sdk
         versionCode 1
         versionName "1.0"
 
