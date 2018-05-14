@@ -150,3 +150,11 @@ def addRepos(RepositoryHandler handler) {
     handler.maven { url 'https://jitpack.io' }
 }
 ext.addRepos = this.&addRepos
+
+def addDependClass(DependencyHandler handler) {
+    handler.add("classpath","com.android.tools.build:gradle:3.0.0")
+    handler.add("classpath","com.github.dcendents:android-maven-gradle-plugin:2.0")
+}
+ext.addDependClass = this.&addDependClass
+
+
