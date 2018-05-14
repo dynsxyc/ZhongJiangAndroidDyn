@@ -23,7 +23,6 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.donkingliang.imageselector.R;
 import com.zhongjiang.dyn.imageselector.adapter.ImagePagerAdapter;
 import com.zhongjiang.dyn.imageselector.constant.Constants;
 import com.zhongjiang.dyn.imageselector.entry.Image;

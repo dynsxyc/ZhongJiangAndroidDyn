@@ -32,7 +32,6 @@ import android.view.WindowManager;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.donkingliang.imageselector.R;
 import com.zhongjiang.dyn.imageselector.adapter.FolderAdapter;
 import com.zhongjiang.dyn.imageselector.adapter.ImageAdapter;
 import com.zhongjiang.dyn.imageselector.constant.Constants;

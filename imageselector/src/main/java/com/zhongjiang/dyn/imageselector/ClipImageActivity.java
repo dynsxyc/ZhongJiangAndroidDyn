@@ -12,7 +12,6 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
-import com.donkingliang.imageselector.R;
 import com.zhongjiang.dyn.imageselector.utils.ImageSelectorUtils;
 import com.zhongjiang.dyn.imageselector.utils.ImageUtil;
 import com.zhongjiang.dyn.imageselector.utils.StringUtils;
